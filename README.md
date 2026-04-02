@@ -1,6 +1,6 @@
 
 ## Eu sou Denise Alves 🚀 Desenvolvedora Fullstack em formação
-Estudante de ADS apaixonada por tecnologia com foco em desenvolvimento Front-end. 
+Estudante de ADS com foco em desenvolvimento Front-end. 
 
 🎯 Objetivo: Criar experiências web acessíveis e visualmente impactantes.
 
